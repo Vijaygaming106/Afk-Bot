@@ -1,14 +1,14 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "xcvbnm",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "VIJAYGAMING705SMP.aternos.me",
+    "port": 283807,
+    "version": "1.20.50"
   },
 
   "position": {
